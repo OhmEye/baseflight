@@ -38,7 +38,7 @@ static const uint8_t buzz_longBeep[] = {
 };
 // SOS morse code:
 static const uint8_t buzz_sos[] = {
-    10, 10, 10, 10, 10, 10, 40, 10, 40, 10, 40, 40, 10, 10, 10, 10, 10, 70, 0xFF
+    10, 10, 10, 10, 10, 10, 40, 10, 40, 10, 40, 10, 10, 10, 10, 10, 10, 70, 0xFF
 };
 // Arming when GPS is fixed
 static const uint8_t buzz_armed[] = {
